@@ -53,6 +53,9 @@ body {
     border: none;
     background-color: #fff;
 }
+#search-input:focus {
+    outline: none;
+}
 .search-button {
     background-image: -webkit-linear-gradient(top,#f5f5f5,#f1f1f1);
     background-color: #f2f2f2;
